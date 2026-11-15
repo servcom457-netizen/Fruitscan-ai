@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FruitScan AI</string>
+    <string name="scan_fruit">ESKANE FWI</string>
+    <string name="upload_photo">VOYE FOTO</string>
+    <string name="nav_home">Akèy</string>
+    <string name="nav_favorites">Favori</string>
+    <string name="nav_history">Istorik</string>
+    <string name="nav_settings">Paramèt</string>
+    <string name="medical_disclaimer">FruitScan AI bay enfòmasyon nitrisyonèl, se pa konsèy medikal. Fwi pa geri maladi.</string>
+    <string name="camera_permission_rationale">Otorizasyon kamera a mande sèlman lè w ap eskane yon fwi. Pa gen foto ki voye san konsantman w.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "FruitScan AI",
+  "description": "Intelligent fruit recognition, nutrition, and health benefits companion for Haitian and international fruits in English, French, and Haitian Creole.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

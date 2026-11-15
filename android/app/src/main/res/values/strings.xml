@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FruitScan AI</string>
+    <string name="scan_fruit">SCAN FRUIT</string>
+    <string name="upload_photo">UPLOAD PHOTO</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    <string name="medical_disclaimer">FruitScan AI provides nutritional education, not medical advice. Fruits do not cure or treat diseases.</string>
+    <string name="camera_permission_rationale">Camera access is requested only when you scan a fruit. Photos are never uploaded without your confirmation.</string>
+</resources>
